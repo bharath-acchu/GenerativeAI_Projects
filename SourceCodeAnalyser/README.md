@@ -1,4 +1,4 @@
-## End to End Medical ChatBot Using GenAI
+## End to End Source Code Analyser Using GenAI
 
 ### Tech Stack Used:
 * Python
