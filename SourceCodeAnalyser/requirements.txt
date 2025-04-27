@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_experimental
+flask
+chromadb
+GitPython
+python-dotenv
+google-generativeai
+langchain_google_genai
+-e .
